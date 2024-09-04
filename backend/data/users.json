@@ -1,0 +1,120 @@
+[
+  {
+    "email": "admin@test.com",
+    "name": "Admin",
+    "password": "$2b$10$1fIKYkg4TVwXDly21LaKJOnJTqp/MG4VDi/JQ.c7aSNc/XbsgrngW",
+    "role": "admin"
+  },
+  {
+    "id": 3,
+    "name": "arsh",
+    "email": "arsh@gmail.com",
+    "password": "$2b$10$2ki6aeLQmw2WbhXypmjjq.zCv2/9oYFL4nfi5ppPNI1RxNNfelBnO",
+    "role": "customer"
+  },
+  {
+    "id": 4,
+    "name": "arsh",
+    "email": "arsh@gmail.com",
+    "password": "$2b$10$RwFZwopiIxaN4TvauWt5KehDIWHAiJBEuCjyXCZr8M5CowZL9A/Uq",
+    "role": "customer"
+  },
+  {
+    "id": 5,
+    "name": "bhawna",
+    "email": "bhawnasharma5779@gmail.com",
+    "password": "$2b$10$Wet4YMgODD/vjbsBA.qAb.Qr.wNDoWW90u0P5n1vowToDHx9LeTku",
+    "role": "customer"
+  },
+  {
+    "id": 6,
+    "name": "vihan",
+    "email": "vihan@gmail.com",
+    "password": "$2b$10$QXv7qdY.Qo/2i.FQYbFhduTbIpJFD0vup1AZAVFNNXhJVUSG5IMbO",
+    "role": "customer"
+  },
+  {
+    "id": 6,
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "password": "$2b$10$MRqHgD5JBWj26BwpHX34PO5s7iWcJCj21uufqmzJd0/M9OHXYiAae",
+    "role": "customer"
+  },
+  {
+    "id": 7,
+    "name": "bhawna",
+    "email": "bhawnasharma5779@gmail.com",
+    "password": "$2b$10$zs4QnWZL4i/Vzh7jcd.x4ubQDe5lCqIfbNLoZje3aJSaaWAuQjUtq",
+    "role": "customer"
+  },
+  {
+    "id": 8,
+    "name": "test",
+    "email": "test@gmail.com",
+    "password": "$2b$10$Lh7vpR1axfhVDElBLppzhuokC5U6IcZnyzCbEMjgqEA3A6MUh/nuC",
+    "role": "customer"
+  },
+  {
+    "id": 9,
+    "name": "tests",
+    "email": "abhishekgpk1@gmail.com",
+    "password": "$2b$10$yVTUoxRg744QzRifOLhFC.yrGg4RM3aj14E5FlpvdE4QA1sZFpXTW",
+    "role": "customer"
+  },
+  {
+    "id": 10,
+    "name": "a",
+    "email": "a@gmai.com",
+    "password": "$2b$10$qKKpZnbpUlrynxLmDutJlO5a3Vx0JgdIo3/0vB5sNVf30lYDcNlQu",
+    "role": "customer"
+  },
+  {
+    "id": 11,
+    "name": "t",
+    "email": "t@gmail.com",
+    "password": "$2b$10$PT7QZqJ9azew9buGTcO.SeSMoYFF2fIxGQo4C5DwDJuQ2c1q3HXKa",
+    "role": "customer"
+  },
+  {
+    "id": 12,
+    "name": "A A",
+    "email": "a@gmail.com",
+    "password": "$2b$10$PQzCNx26LQZVkRDyI3B.XOKMUI0KaDeYdoAGMul8cd5X0zZf9wbBK",
+    "role": "customer"
+  },
+  {
+    "id": 17,
+    "name": "Aadarsh Khanna",
+    "email": "a@123gmail.com",
+    "password": "$2b$10$9oQL03jvpvxjX6CrDNbOQeaZj0jI/FOD2k9/.dzk7QAT7ftqXYyi6",
+    "role": "customer"
+  },
+  {
+    "id": 18,
+    "name": "A A",
+    "email": "a1234@gmail.com",
+    "password": "$2b$10$RdhKCIJWivIxnK3nBPgXS.nYa9JFIBV5hmrL76dI1PF9YAledic0q",
+    "role": "customer"
+  },
+  {
+    "id": 19,
+    "name": "A A",
+    "email": "a1@gmail.com",
+    "password": "$2b$10$dvS9RqrdbQ.rBB0wtb1EiOPvg9KyxntXrYxHpNFqlZE.kYxw6Xh5O",
+    "role": "customer"
+  },
+  {
+    "id": 16,
+    "name": "ABC",
+    "email": "abc1@gmail.com",
+    "password": "$2b$10$ayW73MRb3yoBLmtWkl.8feiC37G6nQu0Ha018k2KY2VFg.TqkTOiS",
+    "role": "customer"
+  },
+  {
+    "id": 17,
+    "name": "Adarash",
+    "email": "xyz@gmail.com",
+    "password": "$2b$10$YeZWwNfEL5lwGmHAfJqywurHeIJrHoAPHzltti1oCGkrZGgLEINqe",
+    "role": "customer"
+  }
+]

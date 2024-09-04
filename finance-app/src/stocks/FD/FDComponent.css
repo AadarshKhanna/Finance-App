@@ -1,0 +1,64 @@
+.dashboard {
+  background-color: #1e1f23;
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  color: #ffffff;
+}
+
+/* FD Row styles */
+.fd-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; /* Added background-color transition */
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+.fd-row:hover {
+  transform: translateY(-5px); /* Lift effect */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Larger shadow */
+  background-color: #f5f5f5; /* Slight color change on hover */
+}
+
+/* Flex columns for details */
+.fd-column {
+  flex: 1;
+  padding: 0 15px;
+}
+
+.fd-column h2 {
+  margin: 0 0 10px;
+  font-size: 18px;
+  color: #333;
+}
+
+.fd-column p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #666;
+}
+
+.fd-column input {
+  padding: 8px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+/* Adjust styles for expanded state */
+.fd-row.expanded {
+  height: auto;
+}
+
+.fd-row.expanded .fd-column {
+  flex-direction: column;
+  align-items: stretch;
+}

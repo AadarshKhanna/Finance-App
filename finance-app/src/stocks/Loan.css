@@ -1,0 +1,50 @@
+.loan-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .loan-title {
+    grid-column: span 3;
+    font-size: 20px;
+    color: #1e1f23;
+    margin-bottom: 20px;
+  }
+  
+  .loan-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .loan-card h5 {
+    font-size: 16px;
+    color: #1e1f23;
+    margin-bottom: 10px;
+  }
+  
+  .loan-icon {
+    font-size: 24px;
+    color: #1e1f23;
+    margin-bottom: 10px;
+  }
+  
+  .loan-card-link {
+    text-decoration: none;
+  }
+  
+  .loan-card-link:hover .loan-card {
+    transform: scale(1.02);
+    transition: transform 0.2s;
+  }
+  
